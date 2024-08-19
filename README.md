@@ -40,11 +40,11 @@ git push -u origin main
 
 --------------------------------------------------------------------
 
-![SSH](https://github.com/user-attachments/assets/f69a62ab-e1cc-4e71-b8cb-25c55130acaa)
+![SSH](https://github.com/user-attachments/assets/affcb530-1c32-43a4-99ae-444b254e964e)
 
 --------------------------------------------------------------------
 
-![HTTPS](https://github.com/user-attachments/assets/aa744587-eb72-413a-a24e-a4b0ed278b32)
+![HTTPS](https://github.com/user-attachments/assets/7d4e076e-5111-4b53-b930-93ead7e6bd36)
 
 --------------------------------------------------------------------
 
